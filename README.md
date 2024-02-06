@@ -7,7 +7,7 @@ If you're tired of going back and forth in your movelist, generate a simple prin
 [![poc_generated_content.jpg](assets/poc_generated_content.jpg)](assets/poc_generated_content.jpg)
 
 
-**INSPARATION AND CREDITS TO** https://mspkvp.github.io/tk7movespretty/
+**INSPIRATION AND CREDITS TO** https://mspkvp.github.io/tk7movespretty/
 
 ## Installation
 
