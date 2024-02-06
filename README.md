@@ -1,31 +1,26 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/nizari/tekken-printable-movelist-generator.svg?style=flat-square)](https://packagist.org/packages/nizari/tekken-printable-movelist-generator)
-[![Total Downloads](https://img.shields.io/packagist/dt/nizari/tekken-printable-movelist-generator.svg?style=flat-square)](https://packagist.org/packages/nizari/tekken-printable-movelist-generator)
-![GitHub Actions](https://github.com/nizari/tekken-printable-movelist-generator/actions/workflows/main.yml/badge.svg)
+If you're tired of going back and forth in your movelist, generate a simple print out version so you can have it next to your couch.
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+<!-- I want to show the image poc_generated_content.jpg here in assets folder with markdown -->
 
-INSPARATION AND CREDITS TO https://mspkvp.github.io/tk7movespretty/
+[![poc_generated_content.jpg](assets/poc_generated_content.jpg)](assets/poc_generated_content.jpg)
+
+
+**INSPARATION AND CREDITS TO** https://mspkvp.github.io/tk7movespretty/
 
 ## Installation
 
-You can install the package via composer:
+You can't install the package via composer yet, but you can clone the repository or download the zip file and run the following command:
 
 ```bash
-composer require nizari/tekken-printable-movelist-generator
+composer install
 ```
 
 ## Usage
 
 ```php
-// Usage description here
-```
-
-### Testing
-
-```bash
-composer test
+php index.php
 ```
 
 ### Changelog
