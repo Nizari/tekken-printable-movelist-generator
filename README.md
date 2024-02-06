@@ -1,4 +1,4 @@
-# Very short description of the package
+# Tekken Movelist Generator
 
 If you're tired of going back and forth in your movelist, generate a simple print out version so you can have it next to your couch.
 
